@@ -4,14 +4,23 @@
 To develop the Railway Management System using Star UML
 # SRS (Procedure):
 1.Open StarUML and create a new project named Railway Management System.
+
 2. Identify the actors and functional requirements such as Passenger, Admin, train search, ticket booking, cancellation, and payment.
+
 3. Create the Use Case Diagram with actors and their corresponding use cases.
+
 4. Create the Class Diagram with classes, attributes, operations, and relationships.
+
 5. Create the Communication Diagram to show interactions between system objects.
+
 6. Create the Activity Diagram to represent the workflow of ticket reservation.
+
 7. Create the Sequence Diagram to show the chronological interaction between objects.
+
 8. Create the Package Diagram by grouping related classes into suitable packages.
+
 9. Verify all diagrams for correct relationships, flow, and interactions.
+
 10. Save the project and complete the Railway Management System UML design successfully using StarUML.
 # DIAGRAMS:
 1. Use case Diagram
